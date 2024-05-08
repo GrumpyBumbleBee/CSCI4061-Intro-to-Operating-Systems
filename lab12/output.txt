@@ -1,0 +1,15 @@
+grumpy@bumblebee:~/Documents/4061/template$ ./client
+Client: Hello server
+Server: Hello client
+Client: Sending msg
+Server: Received msg
+Client: END
+Client exiting...
+
+grumpy@bumblebee:~/Documents/4061/template$ ./server
+Client: Hello server
+Server: Hello client
+Client: Sending msg
+Server: Received msg
+Client: END
+Server exiting...
