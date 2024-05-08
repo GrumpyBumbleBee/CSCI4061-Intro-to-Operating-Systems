@@ -1,0 +1,15 @@
+Stats for dir0
+
+File found: d.txt
+Mode: 100600 : -rw-------
+User ID of Owner: 1000
+Inode Number: 3942349
+
+Symlink found: symlink.txt
+
+File found: hardlink.txt
+Mode: 100600 : -rw-------
+User ID of Owner: 1000
+Inode Number: 3942346
+
+Directory found: dir1
